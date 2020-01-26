@@ -1,4 +1,5 @@
-# ReactStudentManagement
+# For own user porpose
+本代码为开源学习所用。任何第三方用于商业用途属于侵犯本人权益。如有人将其使用于任何商业用途，请告知本人，本人将保留一切起诉等法律权利。
 This application was generated using JHipster 5.4.2, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.4.2](https://www.jhipster.tech/documentation-archive/v5.4.2).
 
 ## Development
